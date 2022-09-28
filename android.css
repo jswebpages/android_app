@@ -81,3 +81,10 @@ ul li a:active, ul li a:hover{
 #content a{
     color: blue;
 }
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
